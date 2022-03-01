@@ -1,0 +1,5 @@
+#switcher-language .switcher-option a span,
+#switcher-language-nav .switcher-option a span{
+    vertical-align: top;
+    margin-left: 3px;
+}
